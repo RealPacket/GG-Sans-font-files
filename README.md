@@ -5,10 +5,10 @@ Discord probably won't be looking for this right now (as I think they don't thin
 so I thought I should get rid of some things that make it look fake.
 
 Fonts:
-  - [GG Sans](/GG Sans.ttf)
-  - [GG Sans Medium](/GG Sans Medium.ttf)
-  - [GG Sans Normal](/GG Sans Normal.ttf)
-  - [GG Sans SemiBold](/GG Sans SemiBold.ttf)
+  - [GG Sans](GG Sans.ttf)
+  - [GG Sans Medium](GG Sans Medium.ttf)
+  - [GG Sans Normal](GG Sans Normal.ttf)
+  - [GG Sans SemiBold](GG Sans SemiBold.ttf)
   - GG Sans Bold: TODO.
   - and more soon (if I'm not lazy)
 
